@@ -1,0 +1,26 @@
+body{
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+canvas{
+    background-color: #fff;
+    /*box-shadow: 60px -16px teal;*/
+}
+h1{
+    color: green;
+    font-size: 3em;
+}
+#botones{
+    margin: 2em 0 0 0;
+    padding: 0;
+}
+button{
+    background: brown;
+    border: none;
+    color: white;
+    font-size: 1.4em;
+    padding: 1em;
+    border-radius: 1.5em;
+}

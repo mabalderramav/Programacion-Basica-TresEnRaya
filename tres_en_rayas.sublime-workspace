@@ -1,0 +1,905 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"limi",
+				"limiteY"
+			],
+			[
+				"lim",
+				"limiteY"
+			],
+			[
+				"lime",
+				"limiteX"
+			],
+			[
+				"dibujar",
+				"dibujarCruz"
+			],
+			[
+				"punto",
+				"puntoA"
+			],
+			[
+				"dibu",
+				"dibujarLinea"
+			],
+			[
+				"al",
+				"altoFila"
+			],
+			[
+				"alto",
+				"altoFila"
+			],
+			[
+				"col",
+				"columna"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"im",
+				"imagen"
+			],
+			[
+				"matr",
+				"matrizA"
+			],
+			[
+				"set",
+				"setJuegoA"
+			],
+			[
+				"ini",
+				"InicializarCanvas"
+			],
+			[
+				"punt",
+				"punto"
+			],
+			[
+				"setma",
+				"setMatrizA"
+			],
+			[
+				"ma",
+				"matrizJuego"
+			],
+			[
+				"matriz",
+				"matrizA"
+			],
+			[
+				"mat",
+				"matriz"
+			],
+			[
+				"pun",
+				"punto"
+			],
+			[
+				"matri",
+				"matrizJuego"
+			],
+			[
+				"btn",
+				"btnGame"
+			],
+			[
+				"moverA",
+				"moverAbajo"
+			],
+			[
+				"mover",
+				"moverArriba"
+			],
+			[
+				"get",
+				"getPuntoMatriz"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"alt",
+				"altoFila"
+			],
+			[
+				"an",
+				"anchoColumna"
+			],
+			[
+				"ancho",
+				"anchoColumna"
+			],
+			[
+				"can",
+				"cantidadLineasX"
+			],
+			[
+				"dibuj",
+				"dibujarLinea"
+			],
+			[
+				"pu",
+				"puntoX"
+			],
+			[
+				"di",
+				"dibujarLinea"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"s",
+				"strokeStyle"
+			],
+			[
+				"lien",
+				"lienzo"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"ata",
+				"ataquePoke"
+			],
+			[
+				"nombre",
+				"nombrePokemon"
+			],
+			[
+				"ti",
+				"tipo"
+			],
+			[
+				"ga",
+				"ganaste"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"do",
+				"dofa"
+			],
+			[
+				"wr",
+				"writeln"
+			],
+			[
+				"op",
+				"opcionMaquina"
+			],
+			[
+				"opcion",
+				"opcionMaquina"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"ale",
+				"aleatorio"
+			],
+			[
+				"va",
+				"validar"
+			],
+			[
+				"opcio",
+				"opicionMaquina"
+			],
+			[
+				"pie",
+				"Piedra"
+			],
+			[
+				"peso",
+				"pesoEnMarte"
+			],
+			[
+				"cons",
+				"consultar"
+			],
+			[
+				"re",
+				"return 	Language Construct"
+			],
+			[
+				"MYSQLI_TRA",
+				"MYSQLI_TRANS_START_READ_ONLY	mysqli Constant"
+			],
+			[
+				"id",
+				"idProducto"
+			],
+			[
+				"con",
+				"contrasena"
+			],
+			[
+				"list",
+				"listaProductos"
+			],
+			[
+				"lis",
+				"listaProductos"
+			],
+			[
+				"lista",
+				"listaProductos"
+			],
+			[
+				"Dire",
+				"direccion"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"vis",
+				"vistaCliente"
+			],
+			[
+				"Lista",
+				"listaClientes"
+			],
+			[
+				"controla",
+				"controladorCliente"
+			],
+			[
+				"mysql_se",
+				"mysql_select_db()	mysql Function"
+			],
+			[
+				"arr",
+				"array()	Language Construct"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"dat",
+				"datos_consulta"
+			],
+			[
+				"da",
+				"datos_consulta"
+			],
+			[
+				"requi",
+				"require_once	Language Construct"
+			],
+			[
+				"mysql_fre",
+				"mysql_free_result()	mysql Function"
+			],
+			[
+				"mys",
+				"mysql_close()	mysql Function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"no",
+				"nano-phonebook-agenda"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bow",
+				"box-shadow"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"si",
+				"sizeTapped"
+			],
+			[
+				"hand",
+				"handleTrack"
+			],
+			[
+				"ne",
+				"neo-animatable"
+			],
+			[
+				"lo",
+				"locale"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bag",
+				"background-image"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"iron",
+				"iron-image"
+			],
+			[
+				"pa",
+				"paper-header-panel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tres_en_rayas.js",
+			"settings":
+			{
+				"buffer_size": 7228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Windows",
+				"name": "style.css"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas"
+	],
+	"file_history":
+	[
+		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/css/estilos.css",
+		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/index.html",
+		"/C/Users/ALDO/Google Drive/BazarDiky/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/tifis.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/la_leyenda_tifis.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas/tres_en_rayas.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/Canvas/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/Canvas/canvas.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/matriz.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/document.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Jan Ken Pon/js/janKenPon.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Jan Ken Pon/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/ciclos.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/dom.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/array.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/matrices.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/write.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/js/piedraPapelTijera.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/piedrapapeltijera.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/clase1.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/codigo.js",
+		"/C/AppServ/www/gestion-ventas/modelos/AccesoDatos/aDatos.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/ctrlVenta.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Producto.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Cliente.php",
+		"/C/AppServ/www/gestion-ventas/vistas/Cliente/VistaListarClientes.php",
+		"/C/AppServ/www/gestion-ventas/controladores/ControladorCliente.php",
+		"/C/AppServ/www/gestion-ventas/vistas/Cliente/VistaFromCliente.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Detalle.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Venta.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Usuario.php",
+		"/C/AppServ/www/gestion-ventas/modelos/Negocio/Rol.php",
+		"/C/AppServ/www/gestion-ventas/vistas/Producto/VistaListarProductos.php",
+		"/C/AppServ/www/gestion-ventas/index.php",
+		"/C/AppServ/www/gestion-ventas/vistas/VistaCliente.php",
+		"/C/Users/ALDO/Documents/App-Aldo/Plantillas/Daher/cl.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Plantillas/Daher/lg3-common-v4/css/lg.min.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Plantillas/Plantillas Daher/www.lg.com/cl.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Plantillas/Plantillas Daher/www.lg.com/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Ventura Mall/hotspot/bower_components/hotspot-ventura/hotspot-ventura.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Ventura Mall/hotspot/login.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Plantillas/hotspot/login.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-company/nano-phonebook-company.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-agenda/nano-phonebook-agenda.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Ventura Mall/hotspot/css/style.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Ventura Mall/hotspot/bower_components/hotspot-ventura/hotspot-ventura.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/aldo-weather/aldo-weather.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Ventura Mall/hotspot/bower_components/hotspot/hotspot-ventura.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer/bower_components/custom-card/custom-card.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Iron-Image/bower_components/hotspot/hotspot.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-company-menu/nano-phonebook-company-menu.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-company-menu-user/nano-phonebook-company-menu-user.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/aldo-current/aldo-current.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/aldo-forecast/aldo-forecast.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-agenda/nano-phonebook-agenda.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/css/normalize.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/css/styles.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/nano-phonebook-company/nano-phonebook-company.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-toggle-button/paper-toggle-button.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-toggle-button/paper-toggle-button.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer/bower_components/custom-card/custom-card.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-styles/paper-styles.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-styles/color.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-styles/default-theme.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-styles/demo-pages.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-styles/demo.css",
+		"/C/Users/ALDO/Documents/App-Aldo/Nano/Phonebook/Company/Phonebook.Company.Api/Phonebook.Company.Api/bower_components/paper-button/demo/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/moment/moment.js",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/moment/locale/es.js",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/aldo-weather/moment.js",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Iron-Image/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-MiTiempo2/index.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mitiempo2/bower_components/aldo-weather/aldo-weather.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer-Mi Tiempo/bower_components/iron-image/iron-image.html",
+		"/C/Users/ALDO/Documents/App-Aldo/Web/Polymer/index1.html",
+		"/C/Users/ALDO/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Mi tiempo/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"argument",
+			"contactenos",
+			"dibujarFondo",
+			"argument",
+			"showJuegoA",
+			"dibujarCirculo",
+			"InicializazCanvas",
+			"setJuegoA",
+			"argument",
+			"getPuntoMatriz",
+			"matriz",
+			"getPuntoMatriz",
+			"dibujarCirculo",
+			"getPuntoMatriz",
+			"argument",
+			"mover",
+			"argument",
+			"cantidadLineasX",
+			"argument",
+			"lineas",
+			"ancho",
+			"c",
+			"argument",
+			"moveTo",
+			"canvas",
+			"Dibujito",
+			"Document",
+			"argument",
+			"Caja",
+			"var",
+			"argument",
+			"function_name",
+			"argument",
+			"Document",
+			"opcionMaquina",
+			"argument",
+			"opcion",
+			"parseInt",
+			"argument",
+			"alert",
+			"Venta",
+			"venta",
+			"Venta",
+			"venta",
+			"Venta",
+			"ClassName",
+			"mysqli",
+			"private",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"idDetalle",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"idCliente",
+			"Direccion",
+			"nombre",
+			"Nombre",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"IdProducto",
+			"idProducto",
+			"IdProducto",
+			"idProducto",
+			"IdProducto",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"Direccion",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"idCliente",
+			"Direccion",
+			" \n",
+			"nombre",
+			"direccion",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"IdVenta",
+			"idVenta",
+			"IdVenta",
+			"idVenta",
+			"IdVenta",
+			"}\n",
+			"argument",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"idlogin",
+			"idLogin",
+			"idRol",
+			"idCliente",
+			"Direccion",
+			"cliente",
+			"direccion",
+			"Usuario",
+			"cliente",
+			"Direccion",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Cliente",
+			"cliente",
+			"Nombre",
+			"nombre",
+			"Nombre",
+			"nombre",
+			"Nombre"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tres_en_rayas.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6959,
+								6959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_name": "style.css",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tres_en_rayas.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tre",
+				"tres_en_rayas.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
