@@ -35,7 +35,7 @@ function InicializarCanvas()
     dibujarRectangulo(puntoA, puntoB, "#000");
     dibujarGrilla();
 }
-function inicializarcontroles()
+function inicializarControles()
 {
     var btnRigth = document.getElementById("btnRigth");
     var btnLeft = document.getElementById("btnLeft");
@@ -48,17 +48,27 @@ function inicializarcontroles()
     btnUp.addEventListener("click",btnUp_Events,false);
     btnDown.addEventListener("click",btnDown_Events,false);
     btnGame.addEventListener("click",btnGame_Events,false);
+
+    document.addEventListener("keydown", documentTeclado_Events, false);
 }
 function Punto(x,y)
 {
     this.X = x;
     this.Y = y;
 }
+var teclas = {
+    UP: 38,
+    DOWN: 40,
+    LETF:37,
+    RIGHT: 39,
+    ENTER: 13
+};
 function aleatorio(minimo,maximo)
 {
     var numero = Math.floor(Math.random() * (maximo - minimo + 1) + minimo);
     return numero;
 }
+
 function dibujarLinea(puntoA,puntoB, color)
 {
     lienzo.beginPath();
@@ -86,7 +96,8 @@ function dibujarCirculo(fila, columna, color)
     var y = (altoFila * fila) - radio;
     lienzo.beginPath();
     lienzo.strokeStyle = color;
-    lienzo.fillStyle = color;
+    lienzo.fillStyle = "#fff";
+    lienzo.lineWidth = 8;
     lienzo.arc(x, y, radio - 20, Math.PI * 2, false);
     lienzo.fill();
     lienzo.closePath();
@@ -130,13 +141,18 @@ function dibujarFilas()
         var puntoA = new Punto(x, y);
         x = ancho;
         var puntoB = new Punto(x, y);
-        dibujarLinea(puntoA, puntoB);           
+        dibujarLinea(puntoA, puntoB);
     }
 }
 function dibujarGrilla()
 {
     dibujarColumnas();
     dibujarFilas();
+}
+function showJuego()
+{
+    showJuegoA();
+    showJuegoB();
 }
 function showJuegoA()
 {
@@ -150,10 +166,23 @@ function showJuegoA()
         }
     }
 }
+function showJuegoB()
+{
+    var puntos = getPuntosMatriz(matrizB);
+    if(puntos)
+    {
+        for (var i = 0; i < puntos.length; i++)
+        {
+            var punto = puntos[i];
+            dibujarCruz( punto.Y + 1, punto.X + 1, "green");
+        }
+    }
+}
 function iniciarJuego()
 {
     var punto = getPuntoMatriz(matrizJuego);
     dibujarCirculo( punto.Y + 1, punto.X + 1, "red");
+    setJuegoB();
 }
 function getPuntoMatriz(matriz)
 {
@@ -199,6 +228,33 @@ function getPuntosMatriz(matriz)
         return false;
     }
 }
+function controlJuego(punto,valor,isJugadorA)
+{
+    if(isJugadorA)
+    {
+        var aux = matrizB[punto.X][punto.Y];
+        if(aux == valor)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
+    else
+    {
+        var aux = matrizA[punto.X][punto.Y];
+        if(aux == valor)
+        {
+            return false;
+        }
+        else
+        {
+            return true;
+        }
+    }
+}
 function setMatriz(punto,valor)
 {
     matrizJuego[punto.X][punto.Y] = valor;
@@ -206,6 +262,10 @@ function setMatriz(punto,valor)
 function setMatrizA(punto,valor)
 {
     matrizA[punto.X][punto.Y] = valor;
+}
+function setMatrizB(punto, valor)
+{
+    matrizB[punto.X][punto.Y] = valor;
 }
 function rowsLength()
 {
@@ -287,7 +347,25 @@ function moverAbajo()
 function setJuegoA()
 {
     var punto = getPuntoMatriz(matrizJuego);
-    setMatrizA(punto, 1);
+    if(controlJuego(punto, 1, true))
+    {
+        setMatrizA(punto, 1);
+    }
+}
+function setJuegoB()
+{
+    var aux = false;
+    while(!aux)
+    {
+        var x = aleatorio(0, columnas - 1);
+        var y = aleatorio(0, filas - 1);
+        var punto = new Punto(x, y);
+        if(controlJuego(punto, 1, false))
+        {
+            setMatrizB(punto, 1);
+            aux = true;
+        }
+    }
 }
 /*
  * Funcion de Inicio
@@ -295,10 +373,12 @@ function setJuegoA()
 function inicio()
 {
     InicializarCanvas();
-    inicializarcontroles();
+    inicializarControles();
     iniciarJuego();
-    showJuegoA();
-    dibujarCruz(1,3, "blue");
+    showJuego();
+    //var x = aleatorio(1, columnas);
+    //var y = aleatorio(1, filas);
+    //dibujarCruz(x,y, "blue");
 }
 /*
  * Events
@@ -307,33 +387,73 @@ function btnRigth_Events()
 {
     if(moverDerecha())
     {
-        showJuegoA();
+        showJuego();
     }
 }
 function btnLeft_Events()
 {
     if(moverIzquierda())
     {
-        showJuegoA();
+        showJuego();
     }
 }
 function btnUp_Events()
 {
     if(moverArriba())
     {
-        showJuegoA();
+        showJuego();
     } 
 }
 function btnDown_Events()
 {
     if(moverAbajo())
     {
-        showJuegoA();
+        showJuego();
     } 
 }
 function btnGame_Events()
 {
     setJuegoA();
+    setJuegoB();
     InicializarCanvas();
-    showJuegoA();
+    showJuego();
+}
+function documentTeclado_Events(datos)
+{
+    var codigo = datos.keyCode;
+    if(codigo == teclas.ENTER)
+    {
+        setJuegoA();
+        setJuegoB();
+        InicializarCanvas();
+        showJuego();
+    }
+    if(codigo == teclas.UP)
+    {
+        if(moverArriba())
+        {
+            showJuego();
+        }
+    }
+    if(codigo == teclas.DOWN)
+    {
+        if(moverAbajo())
+        {
+            showJuego();
+        }
+    }
+    if(codigo == teclas.LETF)
+    {
+        if(moverIzquierda())
+        {
+            showJuego();
+        }
+    }
+    if(codigo == teclas.RIGHT)
+    {
+        if(moverDerecha())
+        {
+            showJuego();
+        }
+    }
 }

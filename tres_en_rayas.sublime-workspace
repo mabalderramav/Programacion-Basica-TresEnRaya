@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"tifi",
+				"tifisDibujo"
+			],
+			[
+				"de",
+				"derOK"
+			],
+			[
+				"iz",
+				"izqOK"
+			],
+			[
+				"at",
+				"atrasOK"
+			],
+			[
+				"tec",
+				"teclas"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"liz",
+				"liz"
+			],
+			[
+				"li",
+				"lizy"
+			],
+			[
+				"l",
+				"lizy"
+			],
+			[
+				"fre",
+				"frenteOK"
+			],
+			[
+				"ti",
+				"tifis"
+			],
+			[
+				"im",
+				"imagenOK"
+			],
+			[
+				"imagen",
+				"imagenOK"
+			],
+			[
 				"limi",
 				"limiteY"
 			],
@@ -46,10 +98,6 @@
 			[
 				"ba",
 				"background"
-			],
-			[
-				"im",
-				"imagen"
 			],
 			[
 				"matr",
@@ -162,10 +210,6 @@
 			[
 				"nombre",
 				"nombrePokemon"
-			],
-			[
-				"ti",
-				"tipo"
 			],
 			[
 				"ga",
@@ -399,31 +443,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 666,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tres_en_rayas.js",
-			"settings":
-			{
-				"buffer_size": 7228,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 395,
-				"line_ending": "Windows",
-				"name": "style.css"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -468,25 +487,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas"
-	],
 	"file_history":
 	[
-		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/css/estilos.css",
-		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/index.html",
-		"/C/Users/ALDO/Google Drive/BazarDiky/index.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/index.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/tifis.js",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas/index.html",
-		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/la_leyenda_tifis.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas/style.css",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Tres en rayas/tres_en_rayas.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Jan Ken Pon/js/janKenPon.js",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 1/codigo.js",
+		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/css/estilos.css",
+		"/C/Users/ALDO/Google Drive/web/Bazar Diky v3.0/index.html",
+		"/C/Users/ALDO/Google Drive/BazarDiky/index.html",
+		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 4/la_leyenda_tifis.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/Canvas/index.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/Canvas/canvas.js",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/matriz.js",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 2/document.js",
-		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Jan Ken Pon/js/janKenPon.js",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Practicos/Jan Ken Pon/index.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3/ciclos.html",
 		"/C/Users/ALDO/Documents/Cursos/Programacion basica/Clase 3",
@@ -574,6 +591,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"argument",
+			"tifis",
+			"frente",
+			"argument",
+			"imagen",
 			"argument",
 			"contactenos",
 			"dibujarFondo",
@@ -696,12 +718,7 @@
 			"Cliente",
 			"cliente",
 			"Cliente",
-			"cliente",
-			"Nombre",
-			"nombre",
-			"Nombre",
-			"nombre",
-			"Nombre"
+			"cliente"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -719,100 +736,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 666,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tres_en_rayas.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7228,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6959,
-								6959
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 881.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 395,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								265,
-								265
-							]
-						],
-						"settings":
-						{
-							"auto_name": "style.css",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -873,12 +798,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\Users\\ALDO\\Documents\\Cursos\\Programacion basica\\Practicos\\Tres en rayas\\tres_en_rayas.sublime-workspace"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
